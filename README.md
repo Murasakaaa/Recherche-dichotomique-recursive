@@ -35,7 +35,7 @@ Il serait donc intéressant d'étudier les performances de la version récursive
 
 Soit `m`, l'indice au milieu de `t`.`(m=(len(t)-1)//2)`
 
-Si n == t[m], `n` est dans `t`. Renvoie `True`.
+Si `n == t[m]`, `n` est dans `t`. Renvoie `True`.
 Sinon, si `n<t[m]`, `n` peut se trouver dans la partie inférieure/gauche de `t`. On appelle récursivement l'algorithme avec en entrée `n` et `t[:m]`
 sinon, `n>t[m]`, `n` peut se trouver dans la partie supérieure/droite de `t`. On appelle récursivement l'algorithme avec en entrée `n` et `t[m+1:]`.
 
