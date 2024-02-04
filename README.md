@@ -38,7 +38,7 @@ sinon, `n>t[m]`, `n` peut se trouver dans la partie supérieure/droite de `t`. O
 
 ## Analyse critique des performances :
 
-(image)
+![graph](https://github.com/Murasakaaa/Recherche-dichotomique-recursive/assets/119632356/ef1e65c0-26dc-4416-ab3c-1c8bc6be1d6f)
 
 Comme l'indique le graphique, l'algorithme montre une complexité linéaire.
 Cela est un résultat plutôt satisfaisant pour un algorithme récursif.
