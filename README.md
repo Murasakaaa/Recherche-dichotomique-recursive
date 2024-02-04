@@ -1,11 +1,9 @@
 <div align="center">
   <h1>Recherche-dichotomique-recursive</h1>
   <!-- <img src="https://github.com/allenai/OLMo/assets/8812459/774ac485-a535-4768-8f7c-db7be20f5cc3" width="300"/> -->
-  <img src="[https://allenai.org/olmo/olmo-7b-animation.gif](https://github.com/Murasakaaa/Recherche-dichotomique-recursive/assets/119632356/17da6306-27fa-4f70-9460-9be5a1bba00f)" alt="image of tkinter interface" width="800" style="margin-left:'auto' margin-right:'auto' display:'block'"/>
-  <br>
-  <br>
-  
+  <img src="https://github.com/Murasakaaa/Recherche-dichotomique-recursive/assets/119632356/17da6306-27fa-4f70-9460-9be5a1bba00f?raw=true" alt="image of tkinter interface" style="margin-left:'auto' margin-right:'auto' display:'block'"/>
 </div>
+
 Programme de recherche dichotomique récursive en Python avec interface graphique Tkinter.
 
 Programme réaliser dans le cadre d'un projet du premier trimestre en cours de spécialité Numérique et Sciences de l'Informatique ( NSI ) au lycée. Le projet a été réaliser en groupe avec [@Candlio] (https://github.com/Candlio)
@@ -42,8 +40,10 @@ Sinon, si `n<t[m]`, `n` peut se trouver dans la partie inférieure/gauche de `t`
 sinon, `n>t[m]`, `n` peut se trouver dans la partie supérieure/droite de `t`. On appelle récursivement l'algorithme avec en entrée `n` et `t[m+1:]`.
 
 ## Analyse critique des performances :
+<div align="center">
+  <img src="https://github.com/Murasakaaa/Recherche-dichotomique-recursive/assets/119632356/ef1e65c0-26dc-4416-ab3c-1c8bc6be1d6f?raw=true" alt="image of the graph" width="600" style="margin-left:'auto' margin-right:'auto' display:'block'"/>
+</div>
 
-![graph](https://github.com/Murasakaaa/Recherche-dichotomique-recursive/assets/119632356/ef1e65c0-26dc-4416-ab3c-1c8bc6be1d6f)
 
 Comme l'indique le graphique, l'algorithme montre une complexité linéaire.
 Cela est un résultat plutôt satisfaisant pour un algorithme récursif.
