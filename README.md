@@ -1,7 +1,12 @@
-# Recherche-dichotomique-recursive
+<div align="center">
+  <h1>Recherche-dichotomique-recursive</h1>
+  <!-- <img src="https://github.com/allenai/OLMo/assets/8812459/774ac485-a535-4768-8f7c-db7be20f5cc3" width="300"/> -->
+  <img src="[https://allenai.org/olmo/olmo-7b-animation.gif](https://github.com/Murasakaaa/Recherche-dichotomique-recursive/assets/119632356/17da6306-27fa-4f70-9460-9be5a1bba00f)" alt="image of tkinter interface" width="800" style="margin-left:'auto' margin-right:'auto' display:'block'"/>
+  <br>
+  <br>
+  
+</div>
 Programme de recherche dichotomique récursive en Python avec interface graphique Tkinter.
-
-(image)
 
 Programme réaliser dans le cadre d'un projet du premier trimestre en cours de spécialité Numérique et Sciences de l'Informatique ( NSI ) au lycée. Le projet a été réaliser en groupe avec [@Candlio] (https://github.com/Candlio)
 Compte rendu à partir de l'explication du choix, réalisé par ce dernier.
